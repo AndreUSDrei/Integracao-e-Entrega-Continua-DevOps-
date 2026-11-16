@@ -11,7 +11,7 @@
 Repositório geral da disciplina de **DevOps** (Fatec). Ele reúne um resumo por aula e funciona como **índice** de tudo o que foi feito: cada atividade prática fica em seu próprio repositório e é ligada aqui.
 
 - **Aluno:** Andreus Vinícius Araújo de Andrade ([@AndreUSDrei](https://github.com/AndreUSDrei))
-- **Disciplina:** DevOps — Fatec
+- **Disciplina:** Integração e Entrega Contínua - DevOps — Fatec
 
 ## 📚 Aulas
 
